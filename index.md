@@ -1,5 +1,3 @@
-title: West Village
-
 West Village Map
 ![alt text](https://raw.githubusercontent.com/farihaansari23/West-Village/master/West%20Village%20Map.png)
 
