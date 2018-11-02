@@ -1,5 +1,7 @@
 West Village
 
+![alt text](https://raw.githubusercontent.com/farihaansari23/West-Village/master/West%20Village%20Map.png)
+
 Demographics
 
 West Village is a neighborhood in Lower Manhattan that encompasses the census tracts 67, 69, 71, 73, 75, 77, and 79. The neighborhood is bounded by 14th Street, 6th Avenue, Houston Street, and the Hudson River. The zip code of the area is 10014. It is 3.7 miles away from Federal Hall and 2 miles away from the Empire State Building.
