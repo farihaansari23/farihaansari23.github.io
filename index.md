@@ -1,9 +1,5 @@
 West Village
 
-Transit Lines
-
-![alt text](https://github.com/farihaansari23/West-Village/blob/master/West%20Village%20Map.png)
-
 Demographics
 
 West Village is a neighborhood in Lower Manhattan that encompasses the census tracts 67, 69, 71, 73, 75, 77, and 79. The neighborhood is bounded by 14th Street, 6th Avenue, Houston Street, and the Hudson River. The zip code of the area is 10014. It is 3.7 miles away from Federal Hall and 2 miles away from the Empire State Building.
@@ -22,4 +18,14 @@ Cumulative number of entries: 6948
 Cumulative number of exits: 10700
 
 Patterns: Overall, throughout the entire week, the number of exits is much larger than the number of entries. Furthermore, as the week progresses, both the number of exits and entries per day increase until the end of the weekend.
+
+Entries 
+![alt text](https://raw.githubusercontent.com/farihaansari23/West-Village/master/Entries.png)
+
+Exits
+![alt text](https://raw.githubusercontent.com/farihaansari23/West-Village/master/Exits.png)
+
+Entries - Exits
+![alt text](https://raw.githubusercontent.com/farihaansari23/West-Village/master/Graph%203.png)
+
 
